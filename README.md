@@ -4,7 +4,7 @@ Program klasyfikujący klocki oparty o uczenie maszynowe.
 ## Działanie
 - Podajemy klocek przed kamerę 
 - Algorytm rozpoznaje klocek 
-- wypluwa dane (gdzie się znajduje i w jakiej ilości)
+- pokazuje dane (gdzie się znajduje i w jakiej ilości)
 - podać ilość klocków z tego rodzaju do dodania
 - dodaje do bazy danych i do szafeczki
 - po dodaniu X kolejnych klocków algorytm uczy się od nowa
